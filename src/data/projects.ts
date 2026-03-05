@@ -2,7 +2,7 @@ const data = [
   {
     id: 1,
     imageUrl:
-      "https://raw.githubusercontent.com/HackWithNoman/frontendmentor-projects/refs/heads/main/projects/recipe-page/preview.jpg",
+      "https://raw.githubusercontent.com/HackWithNoman/frontendmentor-projects/refs/heads/main/recipe-page/preview.jpg",
     title: "Recipe Page",
     description:
       "This challenge will help you focus on writing semantic HTML. Ensure you think through what HTML elements are most appropriate for each piece of content.",
@@ -14,7 +14,7 @@ const data = [
   {
     id: 2,
     imageUrl:
-      "https://raw.githubusercontent.com/HackWithNoman/frontendmentor-projects/refs/heads/main/projects/3-column-preview-card-component/preview.jpg",
+      "https://raw.githubusercontent.com/HackWithNoman/frontendmentor-projects/refs/heads/main/3-column-preview-card-component/preview.jpg",
     title: "3-column preview card component",
     description:
       "This challenge is perfect if you're just getting started. The shift between the layouts will be a nice test if you're new to building responsive projects.",
@@ -26,7 +26,7 @@ const data = [
   {
     id: 3,
     imageUrl:
-      "https://raw.githubusercontent.com/HackWithNoman/frontendmentor-projects/refs/heads/main/projects/nft-preview-card-component/preview.jpg",
+      "https://raw.githubusercontent.com/HackWithNoman/frontendmentor-projects/refs/heads/main/nft-preview-card-component/preview.jpg",
     title: "NFT preview card component",
     description:
       "This HTML & CSS only challenge is perfect for anyone just starting out or anyone wanting a small project to play around with.",
@@ -38,7 +38,7 @@ const data = [
   {
     id: 4,
     imageUrl:
-      "https://raw.githubusercontent.com/HackWithNoman/frontendmentor-projects/refs/heads/main/projects/order-summary-component/preview.jpg",
+      "https://raw.githubusercontent.com/HackWithNoman/frontendmentor-projects/refs/heads/main/order-summary-component/preview.jpg",
     title: "Order summary card",
     description:
       "A perfect project for newbies who are starting to build confidence with layouts!",
@@ -50,7 +50,7 @@ const data = [
   {
     id: 5,
     imageUrl:
-      "https://raw.githubusercontent.com/HackWithNoman/frontendmentor-projects/refs/heads/main/projects/product-preview-card-component/design/desktop-preview.jpg",
+      "https://raw.githubusercontent.com/HackWithNoman/frontendmentor-projects/refs/heads/main/product-preview-card-component/design/desktop-preview.jpg",
     title: "Product preview card component",
     description:
       "This HTML & CSS-only challenge will be perfect for anyone starting to build responsive projects.",
@@ -62,7 +62,7 @@ const data = [
   {
     id: 6,
     imageUrl:
-      "https://raw.githubusercontent.com/HackWithNoman/frontendmentor-projects/refs/heads/main/projects/qr-code-component/preview.jpg",
+      "https://raw.githubusercontent.com/HackWithNoman/frontendmentor-projects/refs/heads/main/qr-code-component/preview.jpg",
     title: "QR code component",
     description:
       "A perfect first challenge if you're new to HTML and CSS. The card layout doesn't shift, so it's ideal if you haven't learned about building responsive layouts yet.",
@@ -86,7 +86,7 @@ const data = [
   {
     id: 8,
     imageUrl:
-      "https://raw.githubusercontent.com/HackWithNoman/frontendmentor-projects/refs/heads/main/projects/social-links-profile/preview.jpg",
+      "https://raw.githubusercontent.com/HackWithNoman/frontendmentor-projects/refs/heads/main/social-links-profile/preview.jpg",
     title: "Social links profile",
     description:
       "In this small project, you'll build out your social link-sharing profile. You can even personalize it and use it to share all your social profiles!",
@@ -98,7 +98,7 @@ const data = [
   {
     id: 9,
     imageUrl:
-      "https://raw.githubusercontent.com/HackWithNoman/frontendmentor-projects/refs/heads/main/projects/stats-preview-card-component/preview.jpg",
+      "https://raw.githubusercontent.com/HackWithNoman/frontendmentor-projects/refs/heads/main/stats-preview-card-component/preview.jpg",
     title: "Stats preview card component",
     description:
       "This is a great small challenge to help get you used to building to a design. There's no JS in this project, so you'll be able to focus on your HTML & CSS skills.",
