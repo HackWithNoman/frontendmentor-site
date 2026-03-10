@@ -1,4 +1,5 @@
-import Navbar from "../components/layout/Navbar";
+import Footer from "../components/shared/Footer";
+import Navbar from "../components/shared/Navbar";
 import { ReactNode } from "react";
 
 function MainLayout({ children }: { children: ReactNode }) {
@@ -6,6 +7,7 @@ function MainLayout({ children }: { children: ReactNode }) {
     <>
       <Navbar />
       {children}
+      <Footer />
     </>
   );
 }

@@ -1,13 +1,11 @@
-import Footer from "../components/home/Footer";
-import Hero from "../components/home/Hero";
-import Projects from "../components/home/Projects";
+import Hero from "../components/shared/Hero";
+import Projects from "../components/projects/Projects";
 
 export default function Home() {
   return (
     <>
       <Hero />
       <Projects />
-      <Footer />
     </>
   );
 }

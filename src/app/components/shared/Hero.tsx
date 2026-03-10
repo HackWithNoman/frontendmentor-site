@@ -6,7 +6,7 @@ function Hero() {
     <section className="flex flex-col items-center mt-12">
       <p className="py-4">Growing collection of</p>
       <h1 className="text-3xl mb-6">Frontend Mentor Projects</h1>
-      <p className="mx-w-3xl text-center mb-6">
+      <p className="max-w-2xl text-center mb-6">
         Explore difrent types of project built with html, css and vanillla
         javascript. Here I’m listing all the projects am crating with
         javascript. You can use these projects to practice your javascript

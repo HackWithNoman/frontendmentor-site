@@ -6,7 +6,12 @@ function Footer() {
       <div className="flex gap-6">
         <Link href="/resources">Resources</Link>
         <Link href="/projects">Projects</Link>
-        <Link href="/github">Github</Link>
+        <Link
+          href="https://github.com/HackWithNoman/frontendmentor-site"
+          target="blank"
+        >
+          Github
+        </Link>
       </div>
       <p>
         Made by{" "}

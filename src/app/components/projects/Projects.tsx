@@ -1,5 +1,5 @@
 import data from "@/data/projects";
-import ProjectCard from "../projects/ProjectCard";
+import ProjectCard from "./ProjectCard";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
 
