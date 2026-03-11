@@ -2,7 +2,7 @@ import Link from "next/link";
 
 function Footer() {
   return (
-    <footer className="flex justify-between py-16 px-8 rounded-lg border-t border-gray-100">
+    <footer className="flex justify-between py-16 px-8 rounded-lg border-t border-gray-100 mt-18">
       <div className="flex gap-6">
         <Link href="/resources">Resources</Link>
         <Link href="/projects">Projects</Link>

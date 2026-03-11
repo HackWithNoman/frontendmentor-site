@@ -22,7 +22,7 @@ function Projects() {
           />
         ))}
       </div>
-      <div className="my-8">
+      <div className="mt-8">
         <Link href={"/projects"}>
           <Button>All Projects</Button>
         </Link>

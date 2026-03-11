@@ -1,4 +1,5 @@
 import { Button } from "@/components/ui/button";
+import Link from "next/link";
 import { FaArrowRightLong } from "react-icons/fa6";
 
 function Hero() {
@@ -12,10 +13,12 @@ function Hero() {
         javascript. You can use these projects to practice your javascript
         skills. Copy these or get inspired from these.
       </p>
-      <Button size={"lg"}>
-        Browse Projects
-        <FaArrowRightLong />
-      </Button>
+      <Link href={"/projects"}>
+        <Button size={"lg"}>
+          Browse Projects
+          <FaArrowRightLong />
+        </Button>
+      </Link>
     </section>
   );
 }
