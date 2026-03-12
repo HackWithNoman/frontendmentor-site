@@ -2,7 +2,6 @@ import data from "@/data/resources";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
 import { FaCode } from "react-icons/fa";
-import Image from "next/image";
 
 function Resources() {
   return (
@@ -15,13 +14,13 @@ function Resources() {
         {data.map((item) => (
           <section key={item.id} className="bg-gray-100 rounded-sm mt-4">
             <div className="p-6 relative">
-              <Image
+              {/*<Image
                 className="absolute bottom-[-4] right-0 transform p-3 rounded-full opacity-70"
                 src={item.logo}
                 width={70}
                 height={70}
                 alt={item.name}
-              />
+              />*/}
               <h1 className="flex gap-4">
                 <span className="text-2xl">{item.name}</span>
                 <span className="mb-6 border bg-blue-100 text-gray-800 rounded-full px-2 py-1 text-xs w-auto">

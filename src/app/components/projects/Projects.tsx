@@ -4,6 +4,8 @@ import { Button } from "@/components/ui/button";
 import Link from "next/link";
 
 function Projects() {
+  const upData = data.slice(0, 6);
+
   return (
     <section className="mt-24 flex flex-col items-center">
       <div className="text-center mb-6">
@@ -11,7 +13,7 @@ function Projects() {
         <p>Preview and get Source Code</p>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        {data.map((item) => (
+        {upData.map((item) => (
           <ProjectCard
             key={item.id}
             imageUrl={item.imageUrl}
